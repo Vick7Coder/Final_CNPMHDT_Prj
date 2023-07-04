@@ -1,5 +1,5 @@
-# LapTrinhHuongDoiTuong
-Báo cáo môn lập trình hướng đối tượng  
+# CongNghePhanMemHDT
+Báo cáo môn công nghệ phần mềm hướng đối tượng  
 Dưới đây là mô tả ngắn gọn về mỗi phần:  
 
 Các vai trò: Admin, User, Phóng viên và Biên tập viên.  
